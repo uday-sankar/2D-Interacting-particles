@@ -1,5 +1,6 @@
 # 2D-Interacting-particles
-Result of my curiosity to simulate a multi-particle interacting system
+Result of my curiosity to simulate a multi-particle interacting system.
+The electron gas name is simply something i though about, these particles don't have neither the mass nor the charge of electrons.
 The archived repository named 2D semi interacting partciles was my first try at such a system.
 This is a much more refined energy conserving system. The interactions are moddeled using normal coloumb repuslsion.
  
